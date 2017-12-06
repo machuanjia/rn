@@ -6,6 +6,8 @@
 
 1. react-native run-ios
 
+1. react-native run-android
+
 
 # lesson是react-native课程
 
